@@ -51,4 +51,3 @@
   <a href="https://github.com/sandro-augusto"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandro-augusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-augusto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <img src="https://github.com/sandro-augusto/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
